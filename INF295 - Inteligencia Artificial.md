@@ -95,6 +95,46 @@ Heuristicas de Instanciación
 - [[Degree Heuristic]]
 - [[Least Constraining Value Heuristic]]
 
+### Definición Técnicas de Resolución
+Definición de todos los algoritmos:
+- [[General Taxonomy for Problem-Solving Techniques]]
+
+Categorias Principales:
+- [[Exhaustive Search Algorithms]]: Algoritmos/Técnicas Completas
+- [[Local Search Algorithms]]: Algoritmos/Técnicas Incompletas
+
+Metaheuristicas:
+- [[Metaheuristics]]
+- [[Heuristic Techniques]]
+
+Concepto de explosión combinatorial
+- [[Combinatorial Explosion]]
+
+### Técnicas Incompletas de Solución
+
+Algoritmo Constructivos
+- [[Greedy Algorithm]]
+- [[Greedy Randomized Adaptive Search Procedure Algorithm]] (Greedy + Probabilidades)
+
+Algoritmos Reparadores (Profundización en [[Local Search Improvement Algorithms|Improvement Algorithm]])
+- [[Hill Climbing Algorithm]]
+- [[Simulated Annealing Algorithm]]
+- [[Tabu Search Algorithm]]
+
+Parámetros para técnicas incompletas
+- [[How to choose Parameters Values for Local Search Algorithms]]
+
+### Técnicas Incompletas Geneticas
+
+Definición de algoritmo genético
+- [[Genetic Algorithm]]
+
+Algoritmo Constructor:
+- [[Ant Colony Optimization]]
+
+Algoritmo Reparadores:
+- [[Evolution Algorithm]]
+
 ## Evaluaciones
 
 - [[Summary Papers C1 INF295]]
