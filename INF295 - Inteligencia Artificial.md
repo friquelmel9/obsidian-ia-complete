@@ -10,9 +10,7 @@ aliases:
 ---
 # INF295 - Inteligencia Artificial
 
-## Información
-
-## Contenidos
+## Contenidos C1
 
 > [!source] Problemas CSP/CSOP
 > Las fuentes para encontrar todos los modelos y demás son varias
@@ -95,6 +93,7 @@ Heuristicas de Instanciación
 - [[Degree Heuristic]]
 - [[Least Constraining Value Heuristic]]
 
+## Contenidos C2
 ### Definición Técnicas de Resolución
 Definición de todos los algoritmos:
 - [[General Taxonomy for Problem-Solving Techniques]]
@@ -135,6 +134,3 @@ Algoritmo Constructor:
 Algoritmo Reparadores:
 - [[Evolution Algorithm]]
 
-## Evaluaciones
-
-- [[Summary Papers C1 INF295]]
